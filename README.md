@@ -4,7 +4,7 @@
 
 - 💼 I am a **Full-Stack Web Developer** proficient in creating responsive and efficient applications.
 - 🎮 Hackathon enthusiast and winner of **Hack-O-Binary** and **Gully Cricket Tournament** during engineering.
-- 📖 Currently pursuing **B.Tech in Computer Science and Engineering** at **Lakshmi Narain College of Technology & Science**, cGPA: **7.4**.
+- 📖 Currently pursuing **B.Tech in Computer Science and Engineering** at **Lakshmi Narain College of Technology & Science**, cGPA: **7.8**.
 - 🌍 Interested in leveraging technology for impactful and user-friendly applications.
 
 ---
